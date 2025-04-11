@@ -35,8 +35,9 @@ It demonstrates how common vulnerabilities (like SQL Injection) can be tested an
    Username: admin
    Password: 1234
 
-   
-##🚨 Known Vulnerabilities
-    SQL Injection
-    No CSRF protection
-    Missing security headers
+## 💥 Known Vulnerabilities
+
+- SQL Injection  
+- No CSRF protection  
+- Missing security headers
+
